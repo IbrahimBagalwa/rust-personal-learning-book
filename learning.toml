@@ -1,0 +1,5 @@
+[learning]
+authors = ['Ibrahim Bagalwa']
+language = 'en'
+title = 'Rust Personal Learning'
+src = 'src'
