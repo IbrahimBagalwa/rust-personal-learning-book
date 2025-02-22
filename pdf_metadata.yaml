@@ -1,0 +1,11 @@
+---
+title: 'Rust personal learning book'
+author:
+  - https://github.com/IbrahimBagalwa/rust-personal-learning-book
+keywords: [rust, rust-personal-learning-book]
+
+geometry: margin=0.7in
+colorlinks: true
+linkcolor: blue
+urlcolor: blue
+toccolor: gray
